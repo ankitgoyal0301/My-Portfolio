@@ -1,6 +1,6 @@
 # My-Portfolio
 
-## Hi There, I'm <a href="https://ankitgoyal0301.github.io/My-Portfolio/">Ankit Goyal</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi There, I'm <a href="https://ankitgoyal0301.github.io/My-Portfolio/index.html">Ankit Goyal</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## About Me
 
